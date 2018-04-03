@@ -1,5 +1,5 @@
-//Insertion at Front in Singly LinkedList
 
+//Insertion at Front in Singly LinkedList
 import java.util.*;
 import java.lang.*;
 class Front_Insertion
