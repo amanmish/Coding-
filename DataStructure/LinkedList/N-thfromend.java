@@ -13,7 +13,7 @@ class Linked_List
 			next=null;
 		}
 	}
-	//Use two pointer one is s_ptr and second is f_ptr
+	
 	int nth_fromend(int n)
 	{
 		Node s_ptr=head,f_ptr=head;
