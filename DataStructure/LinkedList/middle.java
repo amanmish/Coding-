@@ -3,7 +3,7 @@ import java.util.*;
 class Linked_List
 {
 	Node head;
-	static class Node
+	class Node
 	{
 		int data;
 		Node next;
