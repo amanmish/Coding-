@@ -16,11 +16,11 @@ class Linked_List
 	public void printList()
 	{
 		Node ptr=head;
-		while(ptr!=null)
+		while(ptr.next!=null)
 		{
-			System.out.print(ptr.data+"  ");
 			ptr=ptr.next;
 		}
+		System.out.println(ptr);
 	}
 	public static void main(String ar[])
 	{
