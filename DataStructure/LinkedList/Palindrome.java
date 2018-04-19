@@ -16,7 +16,7 @@ class Linked_List
 	}
 	boolean palindrome(Node head)
 	{
-		slowptr=head;
+		slowptr=head;			
 		fasrptr=head;
 		prev=head;
 		Node mid=null;
